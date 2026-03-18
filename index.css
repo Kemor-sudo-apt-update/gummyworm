@@ -1,0 +1,60 @@
+.header{
+background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+text-align: center;
+}
+.header h1{
+font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+}
+
+.brushes h2{
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
+.brushes h3{
+    font-family: Helvetica;
+    text-align: left;
+}
+.brushes .p{
+    text-align: left;
+    font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
+.frames h2{
+    background-color: lightcoral;
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
+.frames h3{
+    font-family: Helvetica;
+    text-align: left;
+}
+.frames .f{
+    font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
+.paint h2{
+    background-color: skyblue;
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
+.paint h3{
+    font-family: Helvetica;
+    text-align: left;
+}
+.paint .c{
+    font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
